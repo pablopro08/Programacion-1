@@ -24,3 +24,4 @@ while True:
     continuar = input("¿Deseas realizar otra operación? (s/n): ").strip().lower()
     if continuar != "s":
         break
+"""rana rene me caew mal y eh nose quemas soy opro  proque juego juegos buenos y nose quemas"""
