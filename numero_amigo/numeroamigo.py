@@ -18,3 +18,4 @@ for a in range(1, 2001):
         print(a, " Numero Amigo, Su pareja es", b)
     else:
         print(a, " no es numero amigo")
+""" hola jejeje"""

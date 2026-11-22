@@ -16,7 +16,7 @@ def crear_tablero(filas, columnas):
    cartas = np.concatenate([simbolos, simbolos])  # cada símbolo dos veces
    np.random.shuffle(cartas)
    return cartas.reshape(filas, columnas)
-
+"""jejeje"""
 def mostrar(cartas, descubiertas):
    """Muestra el símbolo si está descubierta y '?' si está oculta."""
    vista = np.where(descubiertas, cartas, "?")
