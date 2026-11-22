@@ -22,3 +22,5 @@ Este programa va de encontrar la clave unitaria de 1 usuario ingreasando sus dat
 Este programa agarra 1 texto escrito por el usuario y lo filtra dependiendo de cuantas palabras quiere el usuario que se recorra en el abecedario.
 ### Contraseña segura
 Este programa va de crear 1 contraseña segura ingresando minusculas, mayusculas, numeros y caracteres especiales.it init -b main
+### calculadora
+esta es 1 calculadora sencilla, solo puede calcular calculos con 2 variables distintas.
