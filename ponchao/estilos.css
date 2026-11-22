@@ -1,0 +1,77 @@
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: repeating-linear-gradient(
+        to right,
+        #fdd6c6 -14px,
+        #fdd6c6 21px,
+        #7c4b4b 20px,
+        #7c4b4b 23px
+    );
+    color: white;
+}
+
+
+div {
+    background: rgba(0, 0, 0, 1);
+    padding: 50px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+button {
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-right: 90px;
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    color: #fdd6c6;
+    transform: scale(1.05);
+}
+
+
+.nosotros {
+    background-color: #1f1d1d93;
+    padding: 60px 0;
+    border-radius: 20px;
+    width: 80%;
+    margin: 80px auto;
+    text-align: center;
+}
+
+
+h1, h2, h3, p {
+    margin: 0;
+    padding: 10px 0;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #fdd6c6;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.mt-20 { margin-top: 20px; }
+.mt-40 { margin-top: 40px; }
+
+.pt-20 { padding-top: 20px; }
+.pt-40 { padding-top: 40px; }
+ 
